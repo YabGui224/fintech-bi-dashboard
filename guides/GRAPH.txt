@@ -1,0 +1,89 @@
+
+
+## **1. Page "Overview"**
+
+🎯 Objectif : Vue synthétique de la performance globale
+
+* **Courbe ou aire** : Évolution du Chiffre d’Affaires, Dépenses et Bénéfices sur 12 mois
+* **Carte géographique** : Répartition du CA par agence (si localisation dispo)
+* **Cartes KPI** : CA total, Bénéfice net, Marge bénéficiaire, Taux de croissance
+* **Graphique en jauge** : Taux de réalisation du budget (CA vs budget global)
+
+---
+
+## **2. Page "Analyse des transactions"**
+
+🎯 Objectif : Comprendre la répartition et les tendances des ventes
+
+* **Barres horizontales** : Répartition du CA par service
+* **Camembert** : Part de chaque service dans le CA total
+* **Barres empilées** : Volume de transactions par mois et par type de service
+* **Histogramme** : Top 10 agents commerciaux par CA
+* **Courbe** : Nombre de transactions par mois
+
+---
+
+## **3. Page "Analyse des clients"**
+
+🎯 Objectif : Voir la croissance et la valeur des clients
+
+* **Courbe** : Évolution du nombre de nouveaux clients par mois
+* **Barres** : Top 10 clients par dépenses totales
+* **Scatter plot** : Valeur vie client (CLV) vs nombre de transactions
+* **Heatmap** : Transactions par mois et par ville/Agence
+* **Treemap** : Contribution des clients par région/agence
+
+---
+
+## **4. Page "Fraudes"**
+
+🎯 Objectif : Détecter tendances et zones à risque
+
+* **Courbe** : Nombre de fraudes par mois
+* **Barres** : Montant total des fraudes par type
+* **Carte géographique** : Montant des fraudes par agence
+* **Cartes KPI** : Montant total des fraudes, Taux de fraude, Montant moyen par fraude
+* **Barres empilées** : Répartition des fraudes par service et par mois
+
+---
+
+## **5. Page "Budgets"**
+
+🎯 Objectif : Comparer prévisions et réalisations
+
+* **Barres côte à côte** : Budget vs dépenses par département
+* **Courbe** : Tendance des budgets et dépenses sur 12 mois
+* **Graphique en jauge** : % budget consommé par département
+* **Cartes KPI** : Budget total, Dépenses totales, Écart budgétaire global
+
+---
+
+## **6. Page "Dépenses"**
+
+🎯 Objectif : Identifier les gros postes de dépenses
+
+* **Barres horizontales** : Répartition des dépenses par type
+* **Courbe** : Évolution des dépenses mensuelles
+* **Barres empilées** : Dépenses par département et par type
+* **Diagramme en secteurs** : % de chaque type de dépense dans le total
+
+---
+
+## **7. Page "Storytelling"**
+
+🎯 Objectif : Expliquer les tendances et points clés
+
+* **Graphiques combinés** : CA et nombre de clients sur la même courbe
+* **Timeline** : Événements clés (lancement de nouveaux services, pics de fraude, campagnes marketing)
+* **Cartes de synthèse** : Points forts + alertes
+* **Images/annotations** : Pour rendre la narration plus vivante
+
+---
+
+💡 **Conseils Power BI** :
+
+* Utilise **des couleurs cohérentes** (ex. vert pour CA, rouge pour fraude, bleu pour clients).
+* Intègre **des filtres dynamiques** (période, agence, service) pour toutes les pages.
+* Pense à **croiser les données** : par ex., dans *Fraudes*, afficher aussi le % de fraude par rapport au CA du service.
+
+

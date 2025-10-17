@@ -1,0 +1,501 @@
+Date,TypeDepense,Departement,Agence,Montant,Description
+2024-12-12,Maintenance,Finance,Nzérékoré,58446,Dépense liée à maintenance
+2024-03-16,Marketing,Support Client,Labé,131557,Dépense liée à marketing
+2024-11-25,Formation,Marketing,Kindia,178739,Dépense liée à formation
+2024-05-27,Marketing,Marketing,Kankan,49281,Dépense liée à marketing
+2024-02-16,Infrastructure IT,Marketing,Kindia,69786,Dépense liée à infrastructure it
+2024-01-04,Infrastructure IT,Ventes,Kindia,155834,Dépense liée à infrastructure it
+2024-08-26,Maintenance,Marketing,Nzérékoré,131175,Dépense liée à maintenance
+2024-02-28,Frais bancaires,Support Client,Conakry,147097,Dépense liée à frais bancaires
+2024-01-25,Marketing,Finance,Conakry,145371,Dépense liée à marketing
+2024-09-04,Autres,Marketing,Nzérékoré,47505,Dépense liée à autres
+2024-06-25,Voyages,Ventes,Kankan,193541,Dépense liée à voyages
+2024-10-28,Maintenance,Opérations,Labé,36826,Dépense liée à maintenance
+2024-06-08,Marketing,Opérations,Kindia,126684,Dépense liée à marketing
+2024-03-19,Salaires,Finance,Kankan,163904,Dépense liée à salaires
+2024-11-18,Maintenance,Support Client,Kindia,170378,Dépense liée à maintenance
+2024-02-27,Infrastructure IT,Support Client,Labé,143651,Dépense liée à infrastructure it
+2024-06-23,Salaires,Finance,Kankan,83858,Dépense liée à salaires
+2024-10-07,Maintenance,Support Client,Labé,33213,Dépense liée à maintenance
+2024-02-29,Frais bancaires,Opérations,Labé,109916,Dépense liée à frais bancaires
+2024-06-12,Autres,Ventes,Labé,165946,Dépense liée à autres
+2024-02-15,Voyages,Finance,Kankan,57905,Dépense liée à voyages
+2024-05-15,Salaires,Ventes,Kindia,11656,Dépense liée à salaires
+2024-09-10,Infrastructure IT,Finance,Kankan,73305,Dépense liée à infrastructure it
+2024-03-30,Maintenance,Ventes,Labé,46157,Dépense liée à maintenance
+2024-08-17,Autres,Support Client,Labé,19357,Dépense liée à autres
+2024-03-13,Autres,Ventes,Kankan,131976,Dépense liée à autres
+2024-07-26,Formation,Marketing,Kankan,71834,Dépense liée à formation
+2024-03-17,Frais bancaires,Opérations,Nzérékoré,88036,Dépense liée à frais bancaires
+2024-08-24,Autres,Ventes,Labé,125739,Dépense liée à autres
+2024-09-12,Maintenance,Ventes,Kindia,109030,Dépense liée à maintenance
+2024-10-21,Autres,Opérations,Conakry,32747,Dépense liée à autres
+2024-01-23,Salaires,Finance,Kindia,198276,Dépense liée à salaires
+2024-01-06,Infrastructure IT,Marketing,Labé,85750,Dépense liée à infrastructure it
+2024-04-04,Voyages,Support Client,Nzérékoré,5341,Dépense liée à voyages
+2024-07-13,Frais bancaires,Finance,Nzérékoré,22430,Dépense liée à frais bancaires
+2024-07-23,Formation,Finance,Kindia,144974,Dépense liée à formation
+2024-05-17,Formation,Support Client,Kankan,193229,Dépense liée à formation
+2024-12-03,Maintenance,Opérations,Kindia,60511,Dépense liée à maintenance
+2024-10-10,Voyages,Marketing,Nzérékoré,27438,Dépense liée à voyages
+2024-06-09,Marketing,Finance,Labé,175396,Dépense liée à marketing
+2024-08-04,Salaires,Finance,Labé,173612,Dépense liée à salaires
+2024-04-16,Autres,Support Client,Labé,22236,Dépense liée à autres
+2024-01-29,Frais bancaires,Ventes,Nzérékoré,12216,Dépense liée à frais bancaires
+2024-01-02,Formation,Ventes,Labé,5069,Dépense liée à formation
+2024-07-11,Formation,Opérations,Nzérékoré,87836,Dépense liée à formation
+2024-01-27,Maintenance,Support Client,Kankan,124007,Dépense liée à maintenance
+2024-10-21,Marketing,Finance,Conakry,102941,Dépense liée à marketing
+2024-01-17,Voyages,Opérations,Kindia,89025,Dépense liée à voyages
+2024-12-12,Salaires,Opérations,Kindia,78940,Dépense liée à salaires
+2024-05-27,Autres,Support Client,Kankan,156882,Dépense liée à autres
+2024-02-18,Formation,Finance,Kindia,173440,Dépense liée à formation
+2024-02-01,Frais bancaires,Marketing,Nzérékoré,81521,Dépense liée à frais bancaires
+2024-06-27,Salaires,Ventes,Labé,189322,Dépense liée à salaires
+2024-07-20,Maintenance,Support Client,Labé,61825,Dépense liée à maintenance
+2024-02-20,Formation,Marketing,Kankan,72537,Dépense liée à formation
+2024-10-07,Marketing,Opérations,Kindia,138711,Dépense liée à marketing
+2024-10-18,Frais bancaires,Finance,Conakry,26843,Dépense liée à frais bancaires
+2024-02-29,Marketing,Opérations,Labé,192922,Dépense liée à marketing
+2024-03-18,Frais bancaires,Marketing,Conakry,156765,Dépense liée à frais bancaires
+2024-05-07,Autres,Marketing,Nzérékoré,50761,Dépense liée à autres
+2024-11-13,Voyages,Ventes,Kindia,124990,Dépense liée à voyages
+2024-10-01,Voyages,Finance,Kindia,131427,Dépense liée à voyages
+2024-01-19,Maintenance,Marketing,Labé,182067,Dépense liée à maintenance
+2024-05-26,Frais bancaires,Opérations,Conakry,195859,Dépense liée à frais bancaires
+2024-12-11,Marketing,Finance,Nzérékoré,52640,Dépense liée à marketing
+2024-06-01,Voyages,Finance,Kindia,90134,Dépense liée à voyages
+2024-01-23,Frais bancaires,Finance,Labé,43059,Dépense liée à frais bancaires
+2024-10-17,Maintenance,Marketing,Labé,35183,Dépense liée à maintenance
+2024-03-27,Autres,Finance,Nzérékoré,166065,Dépense liée à autres
+2024-05-22,Frais bancaires,Opérations,Nzérékoré,154280,Dépense liée à frais bancaires
+2024-01-02,Salaires,Ventes,Labé,36642,Dépense liée à salaires
+2024-09-07,Autres,Ventes,Nzérékoré,24698,Dépense liée à autres
+2024-03-02,Infrastructure IT,Support Client,Conakry,170992,Dépense liée à infrastructure it
+2024-03-31,Frais bancaires,Support Client,Kindia,23825,Dépense liée à frais bancaires
+2024-04-24,Formation,Ventes,Kankan,172983,Dépense liée à formation
+2024-07-06,Frais bancaires,Ventes,Kindia,82167,Dépense liée à frais bancaires
+2024-03-20,Frais bancaires,Support Client,Conakry,16262,Dépense liée à frais bancaires
+2024-01-15,Salaires,Marketing,Nzérékoré,79183,Dépense liée à salaires
+2024-04-12,Voyages,Marketing,Labé,47290,Dépense liée à voyages
+2024-09-06,Formation,Marketing,Kindia,161768,Dépense liée à formation
+2024-06-22,Frais bancaires,Finance,Kankan,146352,Dépense liée à frais bancaires
+2024-05-27,Marketing,Finance,Labé,97417,Dépense liée à marketing
+2024-08-05,Salaires,Support Client,Labé,167935,Dépense liée à salaires
+2024-09-20,Maintenance,Support Client,Kindia,104922,Dépense liée à maintenance
+2024-07-23,Autres,Marketing,Conakry,14909,Dépense liée à autres
+2024-11-20,Frais bancaires,Support Client,Conakry,167969,Dépense liée à frais bancaires
+2024-04-01,Autres,Opérations,Kindia,173451,Dépense liée à autres
+2024-08-08,Autres,Marketing,Kankan,100114,Dépense liée à autres
+2024-08-26,Voyages,Opérations,Nzérékoré,160285,Dépense liée à voyages
+2024-01-30,Formation,Ventes,Nzérékoré,31932,Dépense liée à formation
+2024-05-13,Formation,Support Client,Kankan,116422,Dépense liée à formation
+2024-05-10,Salaires,Finance,Labé,92159,Dépense liée à salaires
+2024-05-13,Voyages,Finance,Conakry,161699,Dépense liée à voyages
+2024-10-27,Marketing,Marketing,Nzérékoré,129766,Dépense liée à marketing
+2024-11-08,Salaires,Ventes,Kankan,23932,Dépense liée à salaires
+2024-12-10,Maintenance,Ventes,Kindia,114151,Dépense liée à maintenance
+2024-05-25,Salaires,Opérations,Kindia,181024,Dépense liée à salaires
+2024-10-10,Frais bancaires,Finance,Kankan,9984,Dépense liée à frais bancaires
+2024-02-16,Marketing,Ventes,Labé,58246,Dépense liée à marketing
+2024-11-25,Salaires,Finance,Nzérékoré,156881,Dépense liée à salaires
+2024-02-21,Voyages,Marketing,Kindia,150714,Dépense liée à voyages
+2024-11-01,Frais bancaires,Ventes,Kindia,125744,Dépense liée à frais bancaires
+2024-02-27,Maintenance,Support Client,Labé,23864,Dépense liée à maintenance
+2024-02-01,Marketing,Opérations,Kankan,40547,Dépense liée à marketing
+2024-08-21,Formation,Marketing,Kindia,181448,Dépense liée à formation
+2024-03-20,Voyages,Ventes,Conakry,60395,Dépense liée à voyages
+2024-09-12,Infrastructure IT,Opérations,Nzérékoré,185385,Dépense liée à infrastructure it
+2024-12-22,Salaires,Finance,Nzérékoré,35269,Dépense liée à salaires
+2024-05-22,Maintenance,Marketing,Kankan,113129,Dépense liée à maintenance
+2024-02-28,Frais bancaires,Ventes,Labé,51538,Dépense liée à frais bancaires
+2024-05-24,Autres,Finance,Conakry,112281,Dépense liée à autres
+2024-12-10,Maintenance,Marketing,Conakry,12062,Dépense liée à maintenance
+2024-04-13,Voyages,Finance,Kankan,27627,Dépense liée à voyages
+2024-01-10,Frais bancaires,Finance,Nzérékoré,82878,Dépense liée à frais bancaires
+2024-08-31,Salaires,Finance,Kankan,181963,Dépense liée à salaires
+2024-12-24,Autres,Opérations,Kindia,148716,Dépense liée à autres
+2024-05-10,Autres,Support Client,Conakry,95538,Dépense liée à autres
+2024-12-21,Infrastructure IT,Support Client,Kankan,179930,Dépense liée à infrastructure it
+2024-12-19,Autres,Support Client,Nzérékoré,191855,Dépense liée à autres
+2024-02-20,Formation,Opérations,Conakry,139422,Dépense liée à formation
+2024-06-20,Formation,Support Client,Nzérékoré,115281,Dépense liée à formation
+2024-11-22,Formation,Opérations,Kankan,97221,Dépense liée à formation
+2024-07-19,Autres,Finance,Conakry,46167,Dépense liée à autres
+2024-05-10,Salaires,Finance,Nzérékoré,76733,Dépense liée à salaires
+2024-08-31,Formation,Ventes,Kindia,131986,Dépense liée à formation
+2024-08-06,Voyages,Finance,Kankan,115280,Dépense liée à voyages
+2024-03-12,Voyages,Marketing,Nzérékoré,55157,Dépense liée à voyages
+2024-10-15,Voyages,Ventes,Kankan,129556,Dépense liée à voyages
+2024-08-12,Formation,Ventes,Kindia,142123,Dépense liée à formation
+2024-05-04,Marketing,Finance,Labé,124050,Dépense liée à marketing
+2024-09-19,Salaires,Ventes,Conakry,110808,Dépense liée à salaires
+2024-11-30,Maintenance,Ventes,Conakry,43900,Dépense liée à maintenance
+2024-04-17,Formation,Opérations,Kankan,98311,Dépense liée à formation
+2024-02-12,Maintenance,Finance,Conakry,64299,Dépense liée à maintenance
+2024-10-01,Voyages,Support Client,Labé,82183,Dépense liée à voyages
+2024-05-08,Infrastructure IT,Marketing,Conakry,103531,Dépense liée à infrastructure it
+2024-09-07,Salaires,Support Client,Conakry,142846,Dépense liée à salaires
+2024-09-08,Marketing,Marketing,Labé,8735,Dépense liée à marketing
+2024-06-16,Frais bancaires,Finance,Kankan,75371,Dépense liée à frais bancaires
+2024-11-28,Frais bancaires,Opérations,Nzérékoré,81228,Dépense liée à frais bancaires
+2024-03-19,Autres,Opérations,Nzérékoré,132542,Dépense liée à autres
+2024-02-06,Marketing,Ventes,Conakry,75343,Dépense liée à marketing
+2024-09-26,Autres,Ventes,Kindia,164042,Dépense liée à autres
+2024-06-08,Frais bancaires,Finance,Kindia,5475,Dépense liée à frais bancaires
+2024-09-30,Voyages,Marketing,Kindia,113163,Dépense liée à voyages
+2024-06-30,Salaires,Finance,Nzérékoré,23894,Dépense liée à salaires
+2024-03-13,Infrastructure IT,Opérations,Kankan,37087,Dépense liée à infrastructure it
+2024-07-28,Autres,Opérations,Kankan,14944,Dépense liée à autres
+2024-09-13,Autres,Ventes,Nzérékoré,91086,Dépense liée à autres
+2024-04-11,Voyages,Marketing,Conakry,154221,Dépense liée à voyages
+2024-01-30,Voyages,Opérations,Kankan,9571,Dépense liée à voyages
+2024-08-27,Infrastructure IT,Support Client,Labé,36466,Dépense liée à infrastructure it
+2024-09-03,Formation,Marketing,Kindia,165335,Dépense liée à formation
+2024-02-07,Salaires,Opérations,Conakry,199258,Dépense liée à salaires
+2024-02-15,Frais bancaires,Opérations,Conakry,191859,Dépense liée à frais bancaires
+2024-01-23,Infrastructure IT,Opérations,Kindia,169581,Dépense liée à infrastructure it
+2024-07-15,Salaires,Opérations,Kindia,41825,Dépense liée à salaires
+2024-09-11,Maintenance,Opérations,Nzérékoré,111506,Dépense liée à maintenance
+2024-02-27,Voyages,Support Client,Kindia,9944,Dépense liée à voyages
+2024-07-15,Salaires,Marketing,Kankan,175840,Dépense liée à salaires
+2024-05-14,Marketing,Finance,Kankan,17319,Dépense liée à marketing
+2024-10-21,Formation,Support Client,Conakry,181018,Dépense liée à formation
+2024-08-01,Voyages,Opérations,Nzérékoré,140501,Dépense liée à voyages
+2024-07-21,Formation,Ventes,Kindia,63273,Dépense liée à formation
+2024-02-18,Voyages,Opérations,Nzérékoré,38640,Dépense liée à voyages
+2024-10-25,Maintenance,Marketing,Nzérékoré,8984,Dépense liée à maintenance
+2024-01-19,Formation,Finance,Kindia,29769,Dépense liée à formation
+2024-04-01,Frais bancaires,Marketing,Kindia,23993,Dépense liée à frais bancaires
+2024-08-13,Marketing,Finance,Kindia,161175,Dépense liée à marketing
+2024-10-19,Frais bancaires,Ventes,Nzérékoré,125246,Dépense liée à frais bancaires
+2024-10-04,Marketing,Support Client,Conakry,71559,Dépense liée à marketing
+2024-09-08,Frais bancaires,Ventes,Conakry,70921,Dépense liée à frais bancaires
+2024-01-14,Voyages,Finance,Conakry,93384,Dépense liée à voyages
+2024-08-26,Formation,Marketing,Conakry,33468,Dépense liée à formation
+2024-03-20,Marketing,Marketing,Nzérékoré,51977,Dépense liée à marketing
+2024-12-15,Formation,Marketing,Labé,127226,Dépense liée à formation
+2024-04-08,Infrastructure IT,Support Client,Kindia,168871,Dépense liée à infrastructure it
+2024-12-01,Salaires,Finance,Kankan,38059,Dépense liée à salaires
+2024-03-28,Infrastructure IT,Support Client,Nzérékoré,94220,Dépense liée à infrastructure it
+2024-03-23,Autres,Marketing,Kankan,178949,Dépense liée à autres
+2024-04-21,Salaires,Marketing,Kindia,29457,Dépense liée à salaires
+2024-07-09,Infrastructure IT,Support Client,Labé,159671,Dépense liée à infrastructure it
+2024-04-29,Salaires,Ventes,Nzérékoré,199644,Dépense liée à salaires
+2024-01-17,Autres,Marketing,Kindia,131805,Dépense liée à autres
+2024-01-06,Frais bancaires,Opérations,Kankan,69376,Dépense liée à frais bancaires
+2024-07-26,Infrastructure IT,Opérations,Nzérékoré,162372,Dépense liée à infrastructure it
+2024-06-21,Maintenance,Opérations,Labé,131084,Dépense liée à maintenance
+2024-12-27,Voyages,Support Client,Kankan,162777,Dépense liée à voyages
+2024-07-03,Salaires,Ventes,Kankan,44698,Dépense liée à salaires
+2024-09-05,Voyages,Marketing,Kindia,20987,Dépense liée à voyages
+2024-06-18,Frais bancaires,Support Client,Nzérékoré,32981,Dépense liée à frais bancaires
+2024-11-19,Frais bancaires,Support Client,Labé,168808,Dépense liée à frais bancaires
+2024-08-17,Voyages,Marketing,Nzérékoré,194978,Dépense liée à voyages
+2024-04-04,Frais bancaires,Support Client,Labé,176571,Dépense liée à frais bancaires
+2024-12-24,Autres,Ventes,Nzérékoré,114317,Dépense liée à autres
+2024-11-05,Marketing,Marketing,Labé,101181,Dépense liée à marketing
+2024-05-11,Maintenance,Marketing,Kindia,182506,Dépense liée à maintenance
+2024-06-18,Infrastructure IT,Marketing,Kindia,197548,Dépense liée à infrastructure it
+2024-01-22,Salaires,Opérations,Conakry,170718,Dépense liée à salaires
+2024-11-13,Infrastructure IT,Finance,Kindia,150276,Dépense liée à infrastructure it
+2024-11-01,Formation,Support Client,Kindia,66312,Dépense liée à formation
+2024-09-15,Autres,Opérations,Conakry,18558,Dépense liée à autres
+2024-07-03,Infrastructure IT,Opérations,Nzérékoré,21015,Dépense liée à infrastructure it
+2024-08-26,Formation,Finance,Labé,70500,Dépense liée à formation
+2024-03-06,Salaires,Opérations,Labé,189094,Dépense liée à salaires
+2024-01-12,Salaires,Finance,Conakry,57864,Dépense liée à salaires
+2024-11-30,Marketing,Marketing,Kindia,48903,Dépense liée à marketing
+2024-11-01,Maintenance,Support Client,Labé,77432,Dépense liée à maintenance
+2024-04-25,Frais bancaires,Marketing,Labé,69471,Dépense liée à frais bancaires
+2024-06-15,Marketing,Opérations,Labé,105275,Dépense liée à marketing
+2024-11-23,Maintenance,Finance,Kindia,22204,Dépense liée à maintenance
+2024-11-04,Maintenance,Finance,Nzérékoré,49152,Dépense liée à maintenance
+2024-10-24,Voyages,Finance,Labé,20133,Dépense liée à voyages
+2024-05-02,Formation,Ventes,Nzérékoré,184278,Dépense liée à formation
+2024-08-25,Maintenance,Marketing,Kindia,199111,Dépense liée à maintenance
+2024-02-13,Frais bancaires,Ventes,Labé,54390,Dépense liée à frais bancaires
+2024-10-26,Voyages,Opérations,Labé,12120,Dépense liée à voyages
+2024-03-19,Infrastructure IT,Opérations,Labé,86645,Dépense liée à infrastructure it
+2024-09-21,Voyages,Marketing,Conakry,85037,Dépense liée à voyages
+2024-07-16,Voyages,Support Client,Labé,81246,Dépense liée à voyages
+2024-03-02,Maintenance,Marketing,Labé,173777,Dépense liée à maintenance
+2024-08-30,Infrastructure IT,Finance,Conakry,133317,Dépense liée à infrastructure it
+2024-01-23,Autres,Finance,Conakry,182923,Dépense liée à autres
+2024-02-08,Frais bancaires,Ventes,Nzérékoré,34259,Dépense liée à frais bancaires
+2024-10-06,Formation,Finance,Labé,197287,Dépense liée à formation
+2024-10-03,Maintenance,Support Client,Labé,12311,Dépense liée à maintenance
+2024-06-16,Marketing,Ventes,Labé,16428,Dépense liée à marketing
+2024-04-09,Formation,Opérations,Labé,100847,Dépense liée à formation
+2024-06-23,Marketing,Opérations,Labé,27462,Dépense liée à marketing
+2024-02-07,Frais bancaires,Ventes,Labé,15680,Dépense liée à frais bancaires
+2024-02-27,Autres,Opérations,Kankan,90415,Dépense liée à autres
+2024-05-26,Formation,Marketing,Nzérékoré,78131,Dépense liée à formation
+2024-12-20,Marketing,Support Client,Nzérékoré,121556,Dépense liée à marketing
+2024-10-29,Autres,Opérations,Labé,160367,Dépense liée à autres
+2024-04-15,Voyages,Support Client,Labé,191525,Dépense liée à voyages
+2024-10-06,Frais bancaires,Finance,Kindia,43422,Dépense liée à frais bancaires
+2024-04-26,Formation,Opérations,Labé,152590,Dépense liée à formation
+2024-08-12,Marketing,Opérations,Nzérékoré,110160,Dépense liée à marketing
+2024-08-27,Salaires,Ventes,Conakry,135839,Dépense liée à salaires
+2024-01-12,Maintenance,Marketing,Kindia,103690,Dépense liée à maintenance
+2024-05-13,Infrastructure IT,Marketing,Labé,147151,Dépense liée à infrastructure it
+2024-02-05,Voyages,Support Client,Kindia,181838,Dépense liée à voyages
+2024-07-11,Voyages,Opérations,Conakry,92563,Dépense liée à voyages
+2024-07-29,Marketing,Marketing,Labé,58090,Dépense liée à marketing
+2024-11-18,Formation,Opérations,Nzérékoré,196367,Dépense liée à formation
+2024-06-05,Voyages,Ventes,Labé,102713,Dépense liée à voyages
+2024-12-21,Autres,Marketing,Kankan,146559,Dépense liée à autres
+2024-11-09,Autres,Support Client,Kankan,81744,Dépense liée à autres
+2024-05-13,Autres,Ventes,Kankan,13691,Dépense liée à autres
+2024-05-31,Voyages,Finance,Conakry,72574,Dépense liée à voyages
+2024-06-05,Infrastructure IT,Finance,Nzérékoré,178018,Dépense liée à infrastructure it
+2024-08-30,Marketing,Support Client,Kankan,192669,Dépense liée à marketing
+2024-05-14,Salaires,Opérations,Kindia,152209,Dépense liée à salaires
+2024-10-13,Marketing,Finance,Kindia,40608,Dépense liée à marketing
+2024-04-29,Frais bancaires,Opérations,Kankan,190998,Dépense liée à frais bancaires
+2024-09-20,Infrastructure IT,Ventes,Labé,93087,Dépense liée à infrastructure it
+2024-09-06,Autres,Finance,Nzérékoré,151933,Dépense liée à autres
+2024-11-16,Marketing,Opérations,Kindia,87855,Dépense liée à marketing
+2024-09-26,Salaires,Ventes,Conakry,163301,Dépense liée à salaires
+2024-02-06,Marketing,Marketing,Kankan,123192,Dépense liée à marketing
+2024-04-22,Formation,Finance,Nzérékoré,176619,Dépense liée à formation
+2024-01-21,Formation,Ventes,Kindia,52265,Dépense liée à formation
+2024-06-07,Marketing,Ventes,Kindia,18326,Dépense liée à marketing
+2024-02-22,Infrastructure IT,Opérations,Conakry,49187,Dépense liée à infrastructure it
+2024-05-18,Voyages,Opérations,Kankan,155265,Dépense liée à voyages
+2024-05-04,Frais bancaires,Marketing,Conakry,163135,Dépense liée à frais bancaires
+2024-08-27,Formation,Finance,Kindia,109123,Dépense liée à formation
+2024-07-10,Formation,Support Client,Kankan,136486,Dépense liée à formation
+2024-11-25,Formation,Finance,Labé,178776,Dépense liée à formation
+2024-09-17,Infrastructure IT,Marketing,Kankan,168464,Dépense liée à infrastructure it
+2024-01-04,Voyages,Opérations,Nzérékoré,5094,Dépense liée à voyages
+2024-07-27,Autres,Opérations,Labé,131387,Dépense liée à autres
+2024-06-07,Formation,Finance,Kankan,162172,Dépense liée à formation
+2024-06-12,Formation,Opérations,Kankan,197879,Dépense liée à formation
+2024-10-22,Maintenance,Ventes,Conakry,65287,Dépense liée à maintenance
+2024-06-30,Infrastructure IT,Ventes,Nzérékoré,11285,Dépense liée à infrastructure it
+2024-05-03,Salaires,Marketing,Nzérékoré,159446,Dépense liée à salaires
+2024-06-23,Maintenance,Ventes,Conakry,68469,Dépense liée à maintenance
+2024-08-11,Marketing,Ventes,Nzérékoré,108951,Dépense liée à marketing
+2024-12-02,Voyages,Marketing,Nzérékoré,51085,Dépense liée à voyages
+2024-10-28,Voyages,Opérations,Conakry,76612,Dépense liée à voyages
+2024-08-11,Maintenance,Finance,Nzérékoré,182182,Dépense liée à maintenance
+2024-01-02,Formation,Finance,Kankan,110422,Dépense liée à formation
+2024-05-06,Maintenance,Opérations,Conakry,23740,Dépense liée à maintenance
+2024-03-16,Autres,Marketing,Labé,143540,Dépense liée à autres
+2024-08-22,Maintenance,Support Client,Kindia,162212,Dépense liée à maintenance
+2024-10-30,Autres,Finance,Conakry,130196,Dépense liée à autres
+2024-06-03,Frais bancaires,Ventes,Conakry,108497,Dépense liée à frais bancaires
+2024-03-15,Salaires,Ventes,Labé,126964,Dépense liée à salaires
+2024-01-28,Formation,Marketing,Kindia,34837,Dépense liée à formation
+2024-06-02,Frais bancaires,Opérations,Labé,116686,Dépense liée à frais bancaires
+2024-07-01,Voyages,Opérations,Labé,56353,Dépense liée à voyages
+2024-03-29,Salaires,Finance,Conakry,51104,Dépense liée à salaires
+2024-04-07,Marketing,Support Client,Nzérékoré,128240,Dépense liée à marketing
+2024-09-20,Marketing,Support Client,Conakry,128134,Dépense liée à marketing
+2024-09-07,Voyages,Ventes,Labé,166781,Dépense liée à voyages
+2024-01-17,Frais bancaires,Finance,Nzérékoré,128146,Dépense liée à frais bancaires
+2024-08-26,Maintenance,Support Client,Labé,96621,Dépense liée à maintenance
+2024-06-01,Marketing,Marketing,Labé,52864,Dépense liée à marketing
+2024-02-17,Voyages,Marketing,Kankan,61004,Dépense liée à voyages
+2024-12-22,Salaires,Finance,Nzérékoré,30542,Dépense liée à salaires
+2024-07-29,Salaires,Finance,Labé,24469,Dépense liée à salaires
+2024-07-24,Marketing,Ventes,Kankan,47920,Dépense liée à marketing
+2024-09-03,Maintenance,Ventes,Kindia,62878,Dépense liée à maintenance
+2024-04-17,Autres,Finance,Labé,140319,Dépense liée à autres
+2024-10-02,Autres,Ventes,Kankan,56122,Dépense liée à autres
+2024-11-19,Autres,Marketing,Kindia,33728,Dépense liée à autres
+2024-06-15,Maintenance,Finance,Kankan,139041,Dépense liée à maintenance
+2024-11-15,Maintenance,Support Client,Kindia,94949,Dépense liée à maintenance
+2024-04-23,Frais bancaires,Finance,Conakry,46964,Dépense liée à frais bancaires
+2024-11-17,Maintenance,Marketing,Kankan,33791,Dépense liée à maintenance
+2024-06-01,Maintenance,Support Client,Kindia,73496,Dépense liée à maintenance
+2024-06-28,Maintenance,Opérations,Kankan,120640,Dépense liée à maintenance
+2024-03-21,Salaires,Finance,Kindia,156039,Dépense liée à salaires
+2024-10-04,Formation,Support Client,Kindia,96241,Dépense liée à formation
+2024-11-29,Infrastructure IT,Ventes,Labé,7499,Dépense liée à infrastructure it
+2024-07-02,Autres,Finance,Nzérékoré,126171,Dépense liée à autres
+2024-04-19,Autres,Support Client,Kindia,64568,Dépense liée à autres
+2024-04-08,Frais bancaires,Finance,Conakry,15232,Dépense liée à frais bancaires
+2024-12-09,Marketing,Finance,Conakry,151684,Dépense liée à marketing
+2024-02-20,Voyages,Ventes,Nzérékoré,176268,Dépense liée à voyages
+2024-05-15,Formation,Finance,Conakry,9462,Dépense liée à formation
+2024-10-09,Voyages,Marketing,Conakry,34779,Dépense liée à voyages
+2024-07-17,Autres,Finance,Labé,60785,Dépense liée à autres
+2024-02-19,Autres,Ventes,Labé,119650,Dépense liée à autres
+2024-07-08,Formation,Finance,Kindia,48788,Dépense liée à formation
+2024-12-22,Formation,Ventes,Kankan,131048,Dépense liée à formation
+2024-02-10,Salaires,Finance,Nzérékoré,61860,Dépense liée à salaires
+2024-09-19,Maintenance,Opérations,Labé,145841,Dépense liée à maintenance
+2024-09-17,Maintenance,Opérations,Labé,25816,Dépense liée à maintenance
+2024-04-04,Maintenance,Marketing,Kindia,151519,Dépense liée à maintenance
+2024-11-25,Frais bancaires,Marketing,Conakry,185631,Dépense liée à frais bancaires
+2024-06-13,Formation,Finance,Labé,68683,Dépense liée à formation
+2024-06-17,Infrastructure IT,Marketing,Conakry,155729,Dépense liée à infrastructure it
+2024-04-18,Marketing,Support Client,Conakry,97161,Dépense liée à marketing
+2024-01-11,Frais bancaires,Support Client,Conakry,96305,Dépense liée à frais bancaires
+2024-09-15,Salaires,Ventes,Labé,140249,Dépense liée à salaires
+2024-10-19,Frais bancaires,Opérations,Nzérékoré,54746,Dépense liée à frais bancaires
+2024-07-23,Maintenance,Support Client,Conakry,182281,Dépense liée à maintenance
+2024-03-10,Maintenance,Support Client,Nzérékoré,152672,Dépense liée à maintenance
+2024-04-05,Salaires,Finance,Kankan,160613,Dépense liée à salaires
+2024-12-03,Salaires,Marketing,Conakry,62940,Dépense liée à salaires
+2024-08-26,Autres,Finance,Labé,172418,Dépense liée à autres
+2024-06-25,Voyages,Ventes,Kankan,90237,Dépense liée à voyages
+2024-12-18,Formation,Finance,Nzérékoré,80569,Dépense liée à formation
+2024-06-02,Voyages,Ventes,Conakry,104373,Dépense liée à voyages
+2024-12-15,Formation,Marketing,Kankan,86862,Dépense liée à formation
+2024-03-22,Marketing,Finance,Nzérékoré,164429,Dépense liée à marketing
+2024-06-10,Marketing,Ventes,Kindia,192913,Dépense liée à marketing
+2024-05-09,Infrastructure IT,Marketing,Nzérékoré,92445,Dépense liée à infrastructure it
+2024-11-10,Salaires,Support Client,Labé,65811,Dépense liée à salaires
+2024-03-03,Maintenance,Opérations,Conakry,31472,Dépense liée à maintenance
+2024-08-03,Formation,Finance,Nzérékoré,19593,Dépense liée à formation
+2024-11-26,Salaires,Opérations,Kindia,144690,Dépense liée à salaires
+2024-01-24,Salaires,Ventes,Conakry,15868,Dépense liée à salaires
+2024-02-02,Frais bancaires,Marketing,Conakry,125808,Dépense liée à frais bancaires
+2024-09-27,Formation,Ventes,Kankan,28620,Dépense liée à formation
+2024-02-22,Voyages,Finance,Kindia,90151,Dépense liée à voyages
+2024-08-26,Salaires,Finance,Conakry,72027,Dépense liée à salaires
+2024-07-26,Infrastructure IT,Support Client,Kankan,195805,Dépense liée à infrastructure it
+2024-06-03,Salaires,Support Client,Labé,80130,Dépense liée à salaires
+2024-04-05,Salaires,Finance,Kindia,150335,Dépense liée à salaires
+2024-04-26,Frais bancaires,Support Client,Labé,153430,Dépense liée à frais bancaires
+2024-11-21,Salaires,Ventes,Kankan,103441,Dépense liée à salaires
+2024-01-09,Autres,Ventes,Labé,157063,Dépense liée à autres
+2024-12-25,Frais bancaires,Ventes,Conakry,184822,Dépense liée à frais bancaires
+2024-02-24,Infrastructure IT,Ventes,Nzérékoré,21455,Dépense liée à infrastructure it
+2024-01-22,Formation,Ventes,Nzérékoré,107426,Dépense liée à formation
+2024-03-24,Infrastructure IT,Support Client,Kankan,133641,Dépense liée à infrastructure it
+2024-03-14,Marketing,Support Client,Labé,167463,Dépense liée à marketing
+2024-11-15,Autres,Marketing,Labé,165536,Dépense liée à autres
+2024-12-25,Voyages,Support Client,Nzérékoré,124979,Dépense liée à voyages
+2024-06-19,Maintenance,Finance,Conakry,35405,Dépense liée à maintenance
+2024-06-21,Salaires,Ventes,Kindia,93253,Dépense liée à salaires
+2024-01-12,Infrastructure IT,Finance,Nzérékoré,175538,Dépense liée à infrastructure it
+2024-03-28,Autres,Ventes,Conakry,56620,Dépense liée à autres
+2024-03-09,Maintenance,Marketing,Labé,103550,Dépense liée à maintenance
+2024-11-14,Formation,Support Client,Conakry,63865,Dépense liée à formation
+2024-11-21,Autres,Opérations,Labé,144667,Dépense liée à autres
+2024-05-04,Infrastructure IT,Marketing,Labé,91609,Dépense liée à infrastructure it
+2024-08-14,Frais bancaires,Opérations,Kankan,100709,Dépense liée à frais bancaires
+2024-11-19,Salaires,Ventes,Kindia,38500,Dépense liée à salaires
+2024-10-20,Frais bancaires,Opérations,Conakry,25063,Dépense liée à frais bancaires
+2024-04-13,Marketing,Opérations,Labé,132754,Dépense liée à marketing
+2024-12-28,Infrastructure IT,Support Client,Nzérékoré,75494,Dépense liée à infrastructure it
+2024-10-24,Formation,Marketing,Kankan,82129,Dépense liée à formation
+2024-12-19,Salaires,Support Client,Kankan,18495,Dépense liée à salaires
+2024-06-28,Autres,Finance,Labé,52488,Dépense liée à autres
+2024-04-21,Formation,Marketing,Kindia,177359,Dépense liée à formation
+2024-12-02,Autres,Finance,Conakry,153922,Dépense liée à autres
+2024-09-10,Formation,Finance,Nzérékoré,113304,Dépense liée à formation
+2024-04-07,Marketing,Opérations,Labé,93600,Dépense liée à marketing
+2024-02-07,Infrastructure IT,Marketing,Kindia,116369,Dépense liée à infrastructure it
+2024-03-06,Maintenance,Ventes,Conakry,32773,Dépense liée à maintenance
+2024-09-22,Infrastructure IT,Ventes,Nzérékoré,62306,Dépense liée à infrastructure it
+2024-06-24,Infrastructure IT,Support Client,Conakry,90638,Dépense liée à infrastructure it
+2024-11-28,Salaires,Marketing,Conakry,165540,Dépense liée à salaires
+2024-12-04,Maintenance,Opérations,Labé,53353,Dépense liée à maintenance
+2024-07-15,Infrastructure IT,Opérations,Labé,155327,Dépense liée à infrastructure it
+2024-11-15,Voyages,Opérations,Kankan,47803,Dépense liée à voyages
+2024-01-13,Formation,Opérations,Labé,163557,Dépense liée à formation
+2024-03-18,Maintenance,Finance,Nzérékoré,107158,Dépense liée à maintenance
+2024-07-21,Frais bancaires,Ventes,Labé,55727,Dépense liée à frais bancaires
+2024-05-30,Frais bancaires,Ventes,Conakry,123249,Dépense liée à frais bancaires
+2024-04-12,Voyages,Opérations,Conakry,182851,Dépense liée à voyages
+2024-07-26,Marketing,Support Client,Conakry,139477,Dépense liée à marketing
+2024-07-12,Salaires,Ventes,Kindia,53053,Dépense liée à salaires
+2024-03-25,Marketing,Opérations,Labé,52336,Dépense liée à marketing
+2024-08-30,Infrastructure IT,Support Client,Kindia,196866,Dépense liée à infrastructure it
+2024-08-23,Frais bancaires,Ventes,Kindia,150813,Dépense liée à frais bancaires
+2024-06-13,Marketing,Support Client,Kindia,164560,Dépense liée à marketing
+2024-06-26,Maintenance,Support Client,Kankan,8555,Dépense liée à maintenance
+2024-02-10,Frais bancaires,Opérations,Nzérékoré,46051,Dépense liée à frais bancaires
+2024-03-29,Maintenance,Ventes,Conakry,106029,Dépense liée à maintenance
+2024-03-29,Marketing,Marketing,Nzérékoré,89598,Dépense liée à marketing
+2024-11-13,Maintenance,Marketing,Labé,131474,Dépense liée à maintenance
+2024-11-30,Maintenance,Finance,Kankan,10287,Dépense liée à maintenance
+2024-08-23,Formation,Finance,Nzérékoré,60944,Dépense liée à formation
+2024-11-22,Infrastructure IT,Ventes,Kindia,72303,Dépense liée à infrastructure it
+2024-01-26,Voyages,Opérations,Nzérékoré,48702,Dépense liée à voyages
+2024-02-09,Autres,Support Client,Labé,179911,Dépense liée à autres
+2024-04-30,Marketing,Marketing,Kindia,161052,Dépense liée à marketing
+2024-06-18,Frais bancaires,Support Client,Kindia,155248,Dépense liée à frais bancaires
+2024-01-02,Voyages,Finance,Nzérékoré,38395,Dépense liée à voyages
+2024-03-09,Voyages,Opérations,Kankan,181524,Dépense liée à voyages
+2024-04-05,Maintenance,Finance,Kindia,64777,Dépense liée à maintenance
+2024-10-09,Marketing,Opérations,Labé,16764,Dépense liée à marketing
+2024-08-09,Marketing,Ventes,Labé,168157,Dépense liée à marketing
+2024-02-07,Infrastructure IT,Finance,Kindia,123372,Dépense liée à infrastructure it
+2024-05-15,Marketing,Finance,Labé,84814,Dépense liée à marketing
+2024-05-20,Formation,Opérations,Kankan,105135,Dépense liée à formation
+2024-03-28,Marketing,Support Client,Labé,5930,Dépense liée à marketing
+2024-08-28,Autres,Finance,Conakry,86036,Dépense liée à autres
+2024-05-31,Frais bancaires,Finance,Kindia,63329,Dépense liée à frais bancaires
+2024-10-01,Maintenance,Opérations,Nzérékoré,44044,Dépense liée à maintenance
+2024-03-20,Voyages,Opérations,Kankan,80275,Dépense liée à voyages
+2024-05-02,Voyages,Finance,Labé,188700,Dépense liée à voyages
+2024-12-17,Salaires,Marketing,Nzérékoré,52202,Dépense liée à salaires
+2024-11-24,Salaires,Opérations,Nzérékoré,165166,Dépense liée à salaires
+2024-03-18,Salaires,Ventes,Conakry,64497,Dépense liée à salaires
+2024-06-13,Infrastructure IT,Opérations,Nzérékoré,168952,Dépense liée à infrastructure it
+2024-05-25,Frais bancaires,Support Client,Conakry,66420,Dépense liée à frais bancaires
+2024-09-09,Autres,Opérations,Kankan,70047,Dépense liée à autres
+2024-02-25,Voyages,Opérations,Kindia,148075,Dépense liée à voyages
+2024-02-27,Infrastructure IT,Support Client,Kankan,177923,Dépense liée à infrastructure it
+2024-11-26,Infrastructure IT,Support Client,Labé,175487,Dépense liée à infrastructure it
+2024-12-21,Infrastructure IT,Ventes,Kankan,17299,Dépense liée à infrastructure it
+2024-02-22,Formation,Opérations,Labé,172605,Dépense liée à formation
+2024-08-22,Formation,Opérations,Labé,150781,Dépense liée à formation
+2024-07-13,Salaires,Ventes,Conakry,38632,Dépense liée à salaires
+2024-05-22,Maintenance,Support Client,Labé,87409,Dépense liée à maintenance
+2024-04-05,Autres,Marketing,Kankan,59507,Dépense liée à autres
+2024-01-06,Infrastructure IT,Ventes,Kankan,199073,Dépense liée à infrastructure it
+2024-10-30,Salaires,Ventes,Labé,126801,Dépense liée à salaires
+2024-02-07,Frais bancaires,Finance,Kindia,151539,Dépense liée à frais bancaires
+2024-06-11,Voyages,Finance,Labé,120714,Dépense liée à voyages
+2024-10-23,Autres,Support Client,Kankan,174126,Dépense liée à autres
+2024-04-02,Marketing,Finance,Conakry,133187,Dépense liée à marketing
+2024-07-02,Frais bancaires,Opérations,Kindia,76961,Dépense liée à frais bancaires
+2024-07-02,Salaires,Ventes,Conakry,132263,Dépense liée à salaires
+2024-11-28,Infrastructure IT,Support Client,Nzérékoré,187248,Dépense liée à infrastructure it
+2024-05-04,Maintenance,Finance,Labé,60101,Dépense liée à maintenance
+2024-02-17,Marketing,Ventes,Nzérékoré,114239,Dépense liée à marketing
+2024-11-25,Maintenance,Support Client,Kankan,199851,Dépense liée à maintenance
+2024-01-07,Voyages,Marketing,Conakry,29121,Dépense liée à voyages
+2024-10-02,Marketing,Marketing,Kankan,125729,Dépense liée à marketing
+2024-08-02,Salaires,Ventes,Labé,65977,Dépense liée à salaires
+2024-02-04,Infrastructure IT,Marketing,Nzérékoré,188904,Dépense liée à infrastructure it
+2024-01-13,Formation,Finance,Conakry,44850,Dépense liée à formation
+2024-07-20,Infrastructure IT,Marketing,Nzérékoré,135345,Dépense liée à infrastructure it
+2024-05-03,Maintenance,Ventes,Kindia,198215,Dépense liée à maintenance
+2024-11-23,Frais bancaires,Support Client,Kindia,95848,Dépense liée à frais bancaires
+2024-05-11,Maintenance,Opérations,Kindia,29287,Dépense liée à maintenance
+2024-08-18,Marketing,Marketing,Conakry,82761,Dépense liée à marketing
+2024-08-05,Maintenance,Marketing,Nzérékoré,48375,Dépense liée à maintenance
+2024-03-31,Marketing,Ventes,Labé,24798,Dépense liée à marketing
+2024-04-23,Formation,Ventes,Labé,34131,Dépense liée à formation
+2024-03-29,Formation,Opérations,Conakry,162168,Dépense liée à formation
+2024-01-28,Salaires,Opérations,Conakry,86823,Dépense liée à salaires
+2024-10-11,Frais bancaires,Finance,Conakry,9747,Dépense liée à frais bancaires
+2024-06-15,Autres,Opérations,Nzérékoré,75043,Dépense liée à autres
+2024-06-07,Maintenance,Support Client,Conakry,59885,Dépense liée à maintenance
+2024-12-01,Autres,Finance,Kindia,95554,Dépense liée à autres
+2024-11-30,Formation,Support Client,Nzérékoré,152082,Dépense liée à formation
+2024-08-17,Autres,Support Client,Nzérékoré,22028,Dépense liée à autres
+2024-08-22,Frais bancaires,Marketing,Kindia,49838,Dépense liée à frais bancaires
+2024-09-05,Maintenance,Ventes,Kindia,48499,Dépense liée à maintenance
+2024-03-12,Salaires,Opérations,Nzérékoré,18886,Dépense liée à salaires
+2024-04-11,Salaires,Ventes,Kindia,63623,Dépense liée à salaires
+2024-12-26,Infrastructure IT,Opérations,Nzérékoré,156533,Dépense liée à infrastructure it
+2024-09-23,Infrastructure IT,Support Client,Labé,24743,Dépense liée à infrastructure it
+2024-12-07,Formation,Marketing,Kindia,126458,Dépense liée à formation
+2024-06-12,Voyages,Support Client,Nzérékoré,152783,Dépense liée à voyages
+2024-12-06,Maintenance,Support Client,Kindia,157057,Dépense liée à maintenance
+2024-11-20,Frais bancaires,Opérations,Kindia,26447,Dépense liée à frais bancaires
+2024-02-16,Frais bancaires,Finance,Conakry,59683,Dépense liée à frais bancaires
+2024-01-12,Frais bancaires,Finance,Nzérékoré,47021,Dépense liée à frais bancaires
+2024-11-03,Marketing,Ventes,Labé,103035,Dépense liée à marketing
+2024-08-31,Autres,Finance,Nzérékoré,150658,Dépense liée à autres
+2024-04-29,Formation,Finance,Nzérékoré,172949,Dépense liée à formation

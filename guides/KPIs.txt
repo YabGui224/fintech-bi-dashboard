@@ -1,0 +1,87 @@
+
+## **1. KPI Financiers (vue globale)**
+
+À partir de **`transactions.csv`** et **`depenses.csv`** :
+
+* **Chiffre d’affaires (CA)** = Somme des montants des transactions sur une période
+* **Dépenses totales** = Somme des montants de `depenses.csv`
+* **Bénéfice net** = CA - Dépenses totales
+* **Marge bénéficiaire (%)** = `(Bénéfice net / CA) × 100`
+* **Taux de croissance mensuel (%)** = `(CA Mois N – CA Mois N-1) / CA Mois N-1 × 100`
+* **Écart vs Budget (%)** = `(CA – Budget) / Budget × 100` (utilise `budget_departements.csv` ou `financial_overview.csv`)
+
+---
+
+## **2. KPI Transactions (Analyse des ventes et services)**
+
+À partir de **`transactions.csv`** :
+
+* **Nombre total de transactions**
+* **Montant moyen par transaction** = `CA / Nombre transactions`
+* **Répartition du CA par type de service** (% par *Paiement mobile*, *Wallet*, etc.)
+* **Répartition du CA par agence**
+* **Top 5 services générant le plus de CA**
+* **Top 5 agents par volume de transactions**
+* **Taux d’utilisation des services** = `Nb transactions service X / Nb transactions total × 100`
+
+---
+
+## **3. KPI Clients**
+
+À partir de **`clients.csv`** et **`transactions.csv`** :
+
+* **Nombre total de clients actifs** (ayant fait au moins une transaction sur une période donnée)
+* **Nouveaux clients par mois** (via `DateInscription`)
+* **Valeur vie client (CLV)** = Total dépense / durée moyenne d’activité
+* **Taux de rétention** = `Clients actifs Mois N / Clients actifs Mois N-1 × 100`
+* **Top 10 clients par dépense totale**
+* **Part des revenus générés par les 20% de clients les plus dépensiers** (loi de Pareto)
+
+---
+
+## **4. KPI Fraudes**
+
+À partir de **`frauds.csv`** :
+
+* **Nombre total de fraudes détectées**
+* **Montant total des fraudes**
+* **Taux de fraude (%)** = `(Montant des fraudes / CA) × 100`
+* **Répartition des fraudes par type** (*Vol d'identité*, *Phishing*, etc.)
+* **Répartition des fraudes par agence**
+* **Montant moyen par fraude**
+* **Tendance mensuelle des fraudes** (pour détecter pics et anomalies)
+
+---
+
+## **5. KPI Budgets & Dépenses**
+
+À partir de **`budget_departements.csv`** et **`depenses.csv`** :
+
+* **Budget consommé (%)** = `(Dépenses / Budget) × 100`
+* **Écart budgétaire** = `Budget – Dépenses`
+* **Classement des départements selon respect budgétaire**
+* **Top 3 départements en dépassement de budget**
+* **Analyse mensuelle budget vs dépenses réelles**
+
+---
+
+## **6. KPI Storytelling (page narrative)**
+
+Pour ta page *Storytelling*, tu peux raconter :
+
+* L’évolution du chiffre d’affaires sur 12 mois
+* Les périodes avec pic de transactions et causes possibles
+* Les pics de fraude et les mesures prises
+* La performance des agences et services
+* Les succès (ex. meilleure marge bénéficiaire du trimestre)
+* Les points d’alerte (ex. dépassement budget dans un département)
+
+---
+
+📌 **Astuce Power BI** :
+
+* Mets les **KPI clés** (CA, bénéfice, marge, taux de fraude, croissance) en haut de l’**Overview** sous forme de cartes.
+* Utilise un **segmenteur temporel** (année, mois) pour tout filtrer.
+* Crée un **segment par agence, département et service** pour permettre une analyse dynamique.
+
+---

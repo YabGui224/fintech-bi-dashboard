@@ -1,0 +1,201 @@
+Date,ClientID,Montant,Service,Agence,TypeFraude
+2024-03-16,CLT_4102,45295,Achat Facture Courant,Labé,Vol d'identité
+2024-12-14,CLT_4291,6735,Transfert d'Argent,Conakry,Vol d'identité
+2024-02-29,CLT_1846,48912,Paiement Mobile,Nzérékoré,Phishing
+2024-10-14,CLT_5053,40894,Transfert d'Argent,Conakry,Vol d'identité
+2024-10-08,CLT_4180,35033,Achat Facture Courant,Kankan,Vol d'identité
+2024-12-05,CLT_7202,33321,Wallet,Labé,Phishing
+2024-10-24,CLT_4896,31952,Wallet,Labé,Phishing
+2024-11-07,CLT_7065,30210,Wallet,Kankan,Transaction non autorisée
+2024-02-19,CLT_3177,26865,Achat Facture Courant,Labé,Phishing
+2024-10-31,CLT_6367,14428,Wallet,Kindia,Vol d'identité
+2024-01-02,CLT_7861,47830,Achat Facture Courant,Kankan,Vol d'identité
+2024-11-11,CLT_9280,23312,Transfert d'Argent,Nzérékoré,Transaction non autorisée
+2024-02-14,CLT_2867,45902,Achat Facture Courant,Kankan,Phishing
+2024-04-15,CLT_4905,26913,Achat Facture Courant,Conakry,Transaction non autorisée
+2024-05-08,CLT_9628,45933,Paiement Mobile,Kankan,Transaction non autorisée
+2024-04-18,CLT_2685,42700,Achat Facture Courant,Nzérékoré,Chargeback fraud
+2024-06-02,CLT_2571,29247,Paiement Mobile,Kindia,Vol d'identité
+2024-07-16,CLT_1556,11549,Paiement Mobile,Conakry,Transaction non autorisée
+2024-03-27,CLT_7142,43096,Achat Facture Courant,Nzérékoré,Phishing
+2024-08-16,CLT_4266,14592,Achat Facture Courant,Kindia,Phishing
+2024-02-10,CLT_6810,20792,Achat Facture Courant,Conakry,Chargeback fraud
+2024-12-02,CLT_2352,46891,Wallet,Nzérékoré,Phishing
+2024-03-25,CLT_5964,43913,Transfert d'Argent,Kankan,Vol d'identité
+2024-04-30,CLT_2480,18853,Paiement Mobile,Conakry,Phishing
+2024-11-07,CLT_8980,21883,Paiement Mobile,Kindia,Vol d'identité
+2024-06-22,CLT_6680,5754,Wallet,Labé,Phishing
+2024-07-21,CLT_7090,23698,Paiement Mobile,Kindia,Vol d'identité
+2024-09-06,CLT_5534,41447,Wallet,Labé,Transaction non autorisée
+2024-04-13,CLT_8128,43883,Paiement Mobile,Kankan,Vol d'identité
+2024-01-02,CLT_6238,38624,Wallet,Conakry,Vol d'identité
+2024-05-28,CLT_7985,40034,Wallet,Kankan,Transaction non autorisée
+2024-07-16,CLT_4445,48465,Paiement Mobile,Nzérékoré,Chargeback fraud
+2024-08-16,CLT_7503,28649,Achat Facture Courant,Nzérékoré,Chargeback fraud
+2024-07-04,CLT_9399,10503,Paiement Mobile,Nzérékoré,Chargeback fraud
+2024-01-31,CLT_9316,22244,Achat Facture Courant,Labé,Chargeback fraud
+2024-02-03,CLT_7886,45889,Transfert d'Argent,Nzérékoré,Chargeback fraud
+2024-12-02,CLT_8885,39341,Achat Facture Courant,Nzérékoré,Transaction non autorisée
+2024-01-10,CLT_2808,48423,Paiement Mobile,Labé,Phishing
+2024-03-21,CLT_5678,9978,Achat Facture Courant,Nzérékoré,Chargeback fraud
+2024-10-26,CLT_3269,14125,Achat Facture Courant,Conakry,Transaction non autorisée
+2024-03-14,CLT_8455,16008,Transfert d'Argent,Kindia,Transaction non autorisée
+2024-09-21,CLT_7763,24232,Wallet,Kindia,Transaction non autorisée
+2024-10-24,CLT_8206,10436,Achat Facture Courant,Kindia,Phishing
+2024-08-27,CLT_8328,14370,Transfert d'Argent,Nzérékoré,Chargeback fraud
+2024-07-28,CLT_3914,45558,Achat Facture Courant,Kindia,Chargeback fraud
+2024-12-27,CLT_5572,6167,Achat Facture Courant,Conakry,Transaction non autorisée
+2024-12-03,CLT_3435,23132,Achat Facture Courant,Labé,Phishing
+2024-11-14,CLT_9994,48123,Paiement Mobile,Conakry,Vol d'identité
+2024-05-31,CLT_9689,27427,Paiement Mobile,Kankan,Phishing
+2024-11-21,CLT_2125,11526,Wallet,Nzérékoré,Vol d'identité
+2024-03-21,CLT_1272,37313,Paiement Mobile,Kankan,Transaction non autorisée
+2024-12-04,CLT_1520,6726,Transfert d'Argent,Labé,Vol d'identité
+2024-04-29,CLT_5997,43154,Paiement Mobile,Kindia,Chargeback fraud
+2024-08-04,CLT_6759,8921,Paiement Mobile,Labé,Vol d'identité
+2024-05-30,CLT_8740,23429,Wallet,Kankan,Transaction non autorisée
+2024-09-30,CLT_2645,47389,Wallet,Labé,Vol d'identité
+2024-09-08,CLT_6267,35716,Achat Facture Courant,Labé,Phishing
+2024-07-15,CLT_3750,11314,Wallet,Kindia,Phishing
+2024-05-30,CLT_4371,45226,Transfert d'Argent,Conakry,Chargeback fraud
+2024-09-06,CLT_3206,21283,Transfert d'Argent,Kindia,Phishing
+2024-06-27,CLT_4770,48212,Paiement Mobile,Labé,Transaction non autorisée
+2024-03-08,CLT_8999,30986,Transfert d'Argent,Kankan,Phishing
+2024-07-28,CLT_1877,33618,Achat Facture Courant,Nzérékoré,Vol d'identité
+2024-02-23,CLT_4631,33483,Wallet,Labé,Vol d'identité
+2024-11-07,CLT_1203,26060,Achat Facture Courant,Nzérékoré,Transaction non autorisée
+2024-12-26,CLT_7970,35746,Transfert d'Argent,Kankan,Chargeback fraud
+2024-07-22,CLT_5406,23696,Wallet,Kindia,Phishing
+2024-12-30,CLT_3658,33070,Transfert d'Argent,Kankan,Vol d'identité
+2024-01-08,CLT_1362,36642,Paiement Mobile,Nzérékoré,Chargeback fraud
+2024-09-09,CLT_6855,29575,Paiement Mobile,Kindia,Transaction non autorisée
+2024-05-23,CLT_1530,34119,Achat Facture Courant,Nzérékoré,Chargeback fraud
+2024-02-11,CLT_2631,31962,Transfert d'Argent,Conakry,Vol d'identité
+2024-03-24,CLT_2870,40014,Transfert d'Argent,Labé,Transaction non autorisée
+2024-12-05,CLT_4602,46818,Achat Facture Courant,Kindia,Transaction non autorisée
+2024-02-19,CLT_1375,21406,Achat Facture Courant,Conakry,Chargeback fraud
+2024-01-06,CLT_5375,21776,Wallet,Labé,Transaction non autorisée
+2024-11-29,CLT_9675,48817,Achat Facture Courant,Labé,Phishing
+2024-08-18,CLT_1086,39411,Transfert d'Argent,Conakry,Transaction non autorisée
+2024-05-26,CLT_7596,7248,Transfert d'Argent,Conakry,Transaction non autorisée
+2024-12-01,CLT_9164,41489,Paiement Mobile,Nzérékoré,Chargeback fraud
+2024-03-04,CLT_7897,49278,Transfert d'Argent,Labé,Phishing
+2024-04-14,CLT_6171,23689,Paiement Mobile,Kankan,Phishing
+2024-01-07,CLT_4773,11769,Wallet,Nzérékoré,Vol d'identité
+2024-10-10,CLT_3904,6453,Transfert d'Argent,Conakry,Chargeback fraud
+2024-04-07,CLT_3434,36912,Paiement Mobile,Labé,Phishing
+2024-10-03,CLT_4219,20195,Transfert d'Argent,Labé,Phishing
+2024-08-25,CLT_3042,49532,Transfert d'Argent,Conakry,Phishing
+2024-08-12,CLT_5242,39393,Achat Facture Courant,Conakry,Chargeback fraud
+2024-03-31,CLT_1013,30747,Transfert d'Argent,Conakry,Phishing
+2024-02-26,CLT_3561,16841,Paiement Mobile,Nzérékoré,Vol d'identité
+2024-08-24,CLT_6720,19387,Transfert d'Argent,Conakry,Transaction non autorisée
+2024-05-22,CLT_9109,6822,Wallet,Kindia,Phishing
+2024-04-30,CLT_2127,18355,Transfert d'Argent,Nzérékoré,Vol d'identité
+2024-09-03,CLT_9656,44212,Achat Facture Courant,Kankan,Transaction non autorisée
+2024-07-24,CLT_9548,40146,Achat Facture Courant,Nzérékoré,Transaction non autorisée
+2024-08-10,CLT_7343,21934,Achat Facture Courant,Labé,Phishing
+2024-06-15,CLT_9468,19102,Wallet,Kankan,Chargeback fraud
+2024-03-16,CLT_3789,21197,Wallet,Conakry,Transaction non autorisée
+2024-11-01,CLT_6359,36225,Paiement Mobile,Nzérékoré,Vol d'identité
+2024-05-26,CLT_6148,19769,Wallet,Kindia,Chargeback fraud
+2024-12-02,CLT_9657,42429,Achat Facture Courant,Kankan,Transaction non autorisée
+2024-12-16,CLT_7111,34212,Achat Facture Courant,Labé,Vol d'identité
+2024-08-22,CLT_2459,25916,Wallet,Kindia,Transaction non autorisée
+2024-03-26,CLT_6528,30021,Wallet,Conakry,Chargeback fraud
+2024-07-29,CLT_2286,37176,Wallet,Nzérékoré,Chargeback fraud
+2024-05-21,CLT_3290,33301,Transfert d'Argent,Nzérékoré,Phishing
+2024-04-17,CLT_3368,34145,Achat Facture Courant,Conakry,Chargeback fraud
+2024-08-30,CLT_5034,14670,Achat Facture Courant,Nzérékoré,Vol d'identité
+2024-06-06,CLT_1659,5185,Paiement Mobile,Conakry,Chargeback fraud
+2024-01-27,CLT_4834,13724,Paiement Mobile,Kankan,Phishing
+2024-06-20,CLT_5209,30697,Transfert d'Argent,Kindia,Vol d'identité
+2024-07-29,CLT_4773,7863,Achat Facture Courant,Kindia,Vol d'identité
+2024-10-10,CLT_2923,16316,Achat Facture Courant,Conakry,Chargeback fraud
+2024-08-10,CLT_4792,23309,Achat Facture Courant,Kankan,Vol d'identité
+2024-07-31,CLT_7333,36957,Paiement Mobile,Kankan,Phishing
+2024-10-02,CLT_6097,34729,Transfert d'Argent,Labé,Chargeback fraud
+2024-09-01,CLT_4710,47755,Paiement Mobile,Conakry,Vol d'identité
+2024-02-19,CLT_9430,45170,Transfert d'Argent,Kindia,Vol d'identité
+2024-09-04,CLT_4413,27769,Paiement Mobile,Kankan,Chargeback fraud
+2024-04-09,CLT_2507,44857,Paiement Mobile,Kindia,Vol d'identité
+2024-08-14,CLT_1154,33831,Transfert d'Argent,Nzérékoré,Vol d'identité
+2024-05-28,CLT_3536,14471,Achat Facture Courant,Kankan,Transaction non autorisée
+2024-06-07,CLT_1868,8013,Transfert d'Argent,Labé,Phishing
+2024-09-02,CLT_1145,10627,Paiement Mobile,Kankan,Vol d'identité
+2024-11-02,CLT_7475,46564,Paiement Mobile,Kankan,Transaction non autorisée
+2024-07-31,CLT_2987,14577,Achat Facture Courant,Conakry,Phishing
+2024-11-15,CLT_9174,48079,Wallet,Kindia,Transaction non autorisée
+2024-04-21,CLT_9350,49754,Wallet,Labé,Chargeback fraud
+2024-04-22,CLT_8684,21012,Wallet,Kindia,Chargeback fraud
+2024-04-28,CLT_8985,27259,Paiement Mobile,Kankan,Vol d'identité
+2024-04-24,CLT_4360,22855,Transfert d'Argent,Nzérékoré,Phishing
+2024-06-06,CLT_6727,17611,Paiement Mobile,Labé,Phishing
+2024-02-06,CLT_2634,12908,Achat Facture Courant,Nzérékoré,Transaction non autorisée
+2024-03-05,CLT_5719,9448,Paiement Mobile,Kankan,Phishing
+2024-05-16,CLT_2010,15965,Paiement Mobile,Kindia,Vol d'identité
+2024-11-05,CLT_8727,18749,Paiement Mobile,Kankan,Vol d'identité
+2024-03-21,CLT_8807,29222,Paiement Mobile,Nzérékoré,Chargeback fraud
+2024-08-24,CLT_5567,10534,Paiement Mobile,Nzérékoré,Chargeback fraud
+2024-05-01,CLT_7776,37803,Paiement Mobile,Nzérékoré,Chargeback fraud
+2024-08-13,CLT_1890,48809,Paiement Mobile,Nzérékoré,Phishing
+2024-08-27,CLT_5101,12571,Achat Facture Courant,Nzérékoré,Vol d'identité
+2024-12-24,CLT_6958,16197,Achat Facture Courant,Conakry,Transaction non autorisée
+2024-06-12,CLT_9709,44873,Wallet,Kindia,Chargeback fraud
+2024-02-08,CLT_6394,9703,Achat Facture Courant,Kindia,Vol d'identité
+2024-09-03,CLT_9856,42725,Transfert d'Argent,Conakry,Chargeback fraud
+2024-08-08,CLT_8733,27647,Paiement Mobile,Nzérékoré,Transaction non autorisée
+2024-09-17,CLT_7657,28631,Transfert d'Argent,Kankan,Transaction non autorisée
+2024-05-03,CLT_4088,31654,Paiement Mobile,Kankan,Phishing
+2024-04-02,CLT_3005,33695,Transfert d'Argent,Kindia,Phishing
+2024-10-15,CLT_2037,32061,Transfert d'Argent,Nzérékoré,Phishing
+2024-12-26,CLT_4973,47144,Achat Facture Courant,Kindia,Phishing
+2024-08-15,CLT_1199,21338,Transfert d'Argent,Labé,Transaction non autorisée
+2024-07-07,CLT_2179,26219,Achat Facture Courant,Kankan,Transaction non autorisée
+2024-07-29,CLT_4640,46625,Paiement Mobile,Kankan,Chargeback fraud
+2024-07-20,CLT_9038,11732,Achat Facture Courant,Nzérékoré,Phishing
+2024-11-16,CLT_8536,24834,Transfert d'Argent,Labé,Transaction non autorisée
+2024-07-24,CLT_7310,42853,Transfert d'Argent,Kindia,Phishing
+2024-03-29,CLT_6130,46523,Paiement Mobile,Nzérékoré,Chargeback fraud
+2024-05-19,CLT_9596,27901,Achat Facture Courant,Conakry,Phishing
+2024-10-03,CLT_7142,13850,Transfert d'Argent,Kankan,Vol d'identité
+2024-12-15,CLT_2123,17744,Wallet,Nzérékoré,Transaction non autorisée
+2024-07-03,CLT_9906,41757,Wallet,Labé,Vol d'identité
+2024-06-28,CLT_8024,48965,Transfert d'Argent,Kankan,Phishing
+2024-07-27,CLT_8655,45182,Transfert d'Argent,Nzérékoré,Chargeback fraud
+2024-12-14,CLT_9578,10400,Wallet,Conakry,Chargeback fraud
+2024-12-09,CLT_4109,21749,Paiement Mobile,Kankan,Phishing
+2024-04-10,CLT_8996,46450,Paiement Mobile,Conakry,Transaction non autorisée
+2024-11-29,CLT_4644,9224,Wallet,Labé,Transaction non autorisée
+2024-01-21,CLT_9219,15689,Transfert d'Argent,Kankan,Phishing
+2024-05-19,CLT_2453,15663,Paiement Mobile,Conakry,Transaction non autorisée
+2024-11-13,CLT_5835,27370,Achat Facture Courant,Kankan,Phishing
+2024-08-22,CLT_1034,34310,Transfert d'Argent,Kankan,Transaction non autorisée
+2024-12-12,CLT_8807,16875,Transfert d'Argent,Kankan,Transaction non autorisée
+2024-08-27,CLT_5344,15532,Transfert d'Argent,Nzérékoré,Chargeback fraud
+2024-10-26,CLT_5530,5238,Achat Facture Courant,Conakry,Vol d'identité
+2024-05-28,CLT_3104,15395,Paiement Mobile,Labé,Phishing
+2024-11-26,CLT_5461,41333,Wallet,Conakry,Transaction non autorisée
+2024-02-06,CLT_1464,15226,Transfert d'Argent,Nzérékoré,Transaction non autorisée
+2024-12-26,CLT_1810,10909,Transfert d'Argent,Nzérékoré,Phishing
+2024-09-16,CLT_8598,36633,Transfert d'Argent,Labé,Phishing
+2024-01-07,CLT_2673,32325,Paiement Mobile,Kankan,Chargeback fraud
+2024-06-04,CLT_5153,33343,Wallet,Kindia,Vol d'identité
+2024-07-03,CLT_7321,25438,Transfert d'Argent,Conakry,Chargeback fraud
+2024-02-14,CLT_7333,14577,Wallet,Conakry,Chargeback fraud
+2024-10-20,CLT_1771,36730,Transfert d'Argent,Nzérékoré,Vol d'identité
+2024-09-07,CLT_8933,44125,Achat Facture Courant,Labé,Vol d'identité
+2024-09-16,CLT_7363,6163,Wallet,Conakry,Chargeback fraud
+2024-12-01,CLT_6056,8693,Paiement Mobile,Kankan,Vol d'identité
+2024-07-30,CLT_2218,34302,Wallet,Labé,Phishing
+2024-09-14,CLT_5537,37698,Achat Facture Courant,Nzérékoré,Phishing
+2024-10-22,CLT_5046,16388,Paiement Mobile,Nzérékoré,Vol d'identité
+2024-12-29,CLT_8314,45648,Transfert d'Argent,Kankan,Phishing
+2024-12-16,CLT_2596,44052,Wallet,Conakry,Transaction non autorisée
+2024-09-30,CLT_6484,35832,Paiement Mobile,Conakry,Phishing
+2024-12-16,CLT_4155,31576,Paiement Mobile,Kindia,Vol d'identité
+2024-05-24,CLT_4522,19880,Paiement Mobile,Kankan,Transaction non autorisée
+2024-05-05,CLT_7029,31240,Transfert d'Argent,Kindia,Vol d'identité
+2024-06-19,CLT_8242,22893,Achat Facture Courant,Nzérékoré,Phishing
+2024-07-01,CLT_3959,41034,Wallet,Kankan,Phishing
+2024-06-03,CLT_9492,36769,Transfert d'Argent,Nzérékoré,Vol d'identité
