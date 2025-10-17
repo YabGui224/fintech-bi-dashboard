@@ -6,8 +6,7 @@ Ce projet présente un **dashboard complet pour une fintech** visant à analyser
 Le projet inclut une approche **de modélisation de données robuste**, des **indicateurs clés de performance (KPIs)**, et une **page de storytelling** qui raconte l’évolution du chiffre d’affaires et les leviers de performance de l’entreprise.
 
 ---
-![La page Overview](https://github.com/YabGui224/fintech-bi-dashboard/screenshots/overview.png)
-![La page Overview](https://github.com/YabGui224/fintech-bi-dashboard/screenshots/frauds.png)
+![La page Overview](https://github.com/YabGui224/fintech-bi-dashboard/blob/main/screenshots/overview.png)
 
 
 ## Objectifs du projet
